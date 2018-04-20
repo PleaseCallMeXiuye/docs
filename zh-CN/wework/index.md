@@ -6,7 +6,7 @@
 $config = [
     'corp_id' => 'xxxxxxxxxxxxxxxxx',
 
-    'agent_id' => 100020, // 如果有 agend_id 则填写
+    'agent_id' => 100020, // 如果有 agent_id 则填写
     'secret'   => 'xxxxxxxxxx',
 
     // 指定 API 调用返回结果的类型：array(default)/collection/object/raw/自定义类名
